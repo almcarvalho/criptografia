@@ -1,0 +1,9 @@
+# A chave privada deve ficar somente no computador do destinatário.
+chave-privada.pem
+
+# Mensagens em texto aberto ficam apenas no ambiente local.
+segredo.txt
+segredo-descriptografado
+
+node_modules/
+.DS_Store
